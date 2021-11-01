@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ScrollingText_1</string>
+    <string name="Article_titol">Article títol</string>
+    <string name="Article_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\n
+        Nunc condimentum libero a dolor dictum, eget fermentum nunc ullamcorper.
+        Nunc efficitur, augue quis luctus bibendum, augue velit ornare leo,
+        at mollis neque erat vitae justo. Nullam consequat vestibulum ultricies.
+        Suspendisse purus libero, elementum sed magna id, tincidunt molestie ipsum.
+        Ut volutpat velit et est dictum rhoncus. Praesent dapibus scelerisque dui,
+        ut venenatis lectus facilisis ultricies.
+        Morbi vitae nisi euismod felis condimentum consectetur.
+        Maecenas vestibulum facilisis convallis. Donec scelerisque nunc et enim rhoncus
+        tincidunt non sed tellus. Nunc consequat neque augue, eleifend ullamcorper nisl
+        consectetur id. Maecenas pulvinar metus vel ipsum finibus semper.
+        Vestibulum odio augue, cursus quis odio sit amet, maximus volutpat leo.
+        Integer convallis lorem nunc, a vestibulum ante hendrerit vel.
+        Praesent condimentum purus sed placerat fringilla. Praesent in consectetur odio.
+        \n\n
+        In quis orci rutrum, maximus tortor ac, elementum massa. Phasellus nec gravida erat.
+        Aenean egestas, justo et congue vestibulum, metus eros semper diam,
+        suscipit convallis ipsum lectus non mi. Vivamus dapibus arcu arcu,
+        eu blandit mauris dictum id. Aenean convallis condimentum tellus,
+        eu ullamcorper diam. Curabitur tempor, massa vel sagittis facilisis,
+        neque velit tincidunt augue, sit amet ornare turpis justo vitae turpis.
+        Nunc suscipit venenatis arcu. Nulla scelerisque arcu in condimentum sollicitudin.
+        Nullam aliquet aliquam rutrum. Fusce blandit lorem urna,
+        et scelerisque augue ornare vitae. Sed placerat ex lectus,
+        quis bibendum massa molestie eu. Aenean et eros leo. Pellentesque nec placerat orci.
+
+    </string>
+
+
+
+
+</resources>

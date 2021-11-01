@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwoActivities_1</string>
+    <string name="textButtonMain">Send</string>
+    <string name="textEditText_main">Enther your message here.</string>
+    <string name="missatge_activitat_main">Missatge de la activitat principal</string>
+
+    <string name="textButtonSecond">ReSend</string>
+    <string name="textEditText_Second">Enther your message here (second).</string>
+    <string name="missatge_activitat_Second">Missatge de la activitat secundaria</string>
+    <string name="ImatgeButton">Imatge</string>
+
+</resources>
