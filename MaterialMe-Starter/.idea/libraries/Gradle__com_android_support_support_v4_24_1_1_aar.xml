@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:24.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/969c5d01be1cf096039aa2b8735e43e0/transformed/support-v4-24.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/804e9d23800d6d76884d8012a61f4636/transformed/support-v4-24.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/969c5d01be1cf096039aa2b8735e43e0/transformed/support-v4-24.1.1/jars/libs/internal_impl-24.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/969c5d01be1cf096039aa2b8735e43e0/transformed/support-v4-24.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/969c5d01be1cf096039aa2b8735e43e0/transformed/support-v4-24.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/969c5d01be1cf096039aa2b8735e43e0/transformed/support-v4-24.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/modules-2/files-2.1/com.android.support/support-v4/24.1.1/be6e9aab08a72b0de9fe43088640e3617cf2e032/support-v4-24.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/modules-2/files-2.1/com.android.support/support-v4/24.1.1/1011f8c906a5f8f53eef8fd669fc3c2afebe04f7/support-v4-24.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

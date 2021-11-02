@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-vector-drawable:24.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/aa37d877c8ccb9556db7adf16b875d43/transformed/support-vector-drawable-24.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/164cd093e44016399294bfa57224b485/transformed/support-vector-drawable-24.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/164cd093e44016399294bfa57224b485/transformed/support-vector-drawable-24.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/transforms-3/164cd093e44016399294bfa57224b485/transformed/support-vector-drawable-24.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/modules-2/files-2.1/com.android.support/support-vector-drawable/24.1.1/be6e9aab08a72b0de9fe43088640e3617cf2e032/support-vector-drawable-24.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle-6.9.1/caches/modules-2/files-2.1/com.android.support/support-vector-drawable/24.1.1/fd024fab657e4958456d6efc8f137a99a94e5948/support-vector-drawable-24.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
